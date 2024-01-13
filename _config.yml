@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - datetime_client_server_guide.md
+  - empty_fields_client_server_guide.md
